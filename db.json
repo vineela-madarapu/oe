@@ -1,0 +1,185 @@
+{
+   "status" : {
+      "code" : 200,
+      "message" : "OK"
+   },
+   "translatedAutoLosses" : {
+      "key" : "d3f611e6-df23-4859-a630-cf0b34c3f048",
+      "priorKey" : "",
+      "timestamp" : "2020-07-12T04:11:13+00:00",
+      "autoLossRecords" : {
+         "dataIdentifier" : {
+            "sourceSystem" : "E1P-PC",
+            "productLine" : "EHLine_Ext",
+            "policyType" : "HO3",
+            "partnerNumber" : "AFI",
+            "accountNumber" : "7124513584",
+            "underwritingCompany" : "AFIC"
+         },
+         "reportOrderingStatus" : "ORDER_NEW_REPORT",
+         "message" : null,
+         "claims" : [
+            {
+               "assignment" : {
+                  "assignmentType" : "Person",
+                  "personIdentifier" : "I",
+                  "firstName" : "SHERA",
+                  "lastName" : "PASCUA",
+                  "claimsAssociationNumberByRole" : "1",
+                  "roleInClaim" : "IN"
+               },
+               "atFaultIndicatorCode" : "Y",
+               "lossType" : "BI",
+               "lossAmount" : "1497",
+               "claimStatus" : "O",
+               "incurDate" : "2017-12-19",
+               "claimsID" : "INSURANCE SERVICES OFFICE, INC 056940101"
+            },
+            {
+               "assignment" : {
+                  "assignmentType" : "Person",
+                  "personIdentifier" : "I",
+                  "firstName" : "SHERA",
+                  "lastName" : "PASCUA",
+                  "claimsAssociationNumberByRole" : "1",
+                  "roleInClaim" : "IN"
+               },
+               "atFaultIndicatorCode" : "Y",
+               "lossType" : "PD",
+               "lossAmount" : "1497",
+               "claimStatus" : "O",
+               "incurDate" : "2017-12-19",
+               "claimsID" : "INSURANCE SERVICES OFFICE, INC 056940101"
+            },
+            {
+               "assignment" : {
+                  "assignmentType" : "Person",
+                  "personIdentifier" : "I",
+                  "firstName" : "ULA",
+                  "lastName" : "MANISCALCO",
+                  "claimsAssociationNumberByRole" : "2",
+                  "roleInClaim" : "SI"
+               },
+               "atFaultIndicatorCode" : "Y",
+               "lossType" : "BI",
+               "lossAmount" : "1497",
+               "claimStatus" : "O",
+               "incurDate" : "2017-12-19",
+               "claimsID" : "INSURANCE SERVICES OFFICE, INC 056940101"
+            },
+            {
+               "assignment" : {
+                  "assignmentType" : "Person",
+                  "personIdentifier" : "I",
+                  "firstName" : "ULA",
+                  "lastName" : "MANISCALCO",
+                  "claimsAssociationNumberByRole" : "2",
+                  "roleInClaim" : "SI"
+               },
+               "atFaultIndicatorCode" : "Y",
+               "lossType" : "PD",
+               "lossAmount" : "1497",
+               "claimStatus" : "O",
+               "incurDate" : "2017-12-19",
+               "claimsID" : "INSURANCE SERVICES OFFICE, INC 056940101"
+            },
+            {
+               "assignment" : {
+                  "assignmentType" : "Person",
+                  "personIdentifier" : "I",
+                  "firstName" : "SHERA",
+                  "lastName" : "PASCUA",
+                  "claimsAssociationNumberByRole" : "1",
+                  "roleInClaim" : "IN"
+               },
+               "atFaultIndicatorCode" : "Y",
+               "lossType" : "COLL",
+               "lossAmount" : "1497",
+               "claimStatus" : "C",
+               "incurDate" : "2017-03-02",
+               "claimsID" : "INSURANCE SERVICES OFFICE, INC 056940103"
+            },
+            {
+               "assignment" : {
+                  "assignmentType" : "Person",
+                  "personIdentifier" : "I",
+                  "firstName" : "SHERA",
+                  "lastName" : "PASCUA",
+                  "claimsAssociationNumberByRole" : "1",
+                  "roleInClaim" : "IN"
+               },
+               "atFaultIndicatorCode" : "Y",
+               "lossType" : "MEDPY",
+               "lossAmount" : "1497",
+               "claimStatus" : "C",
+               "incurDate" : "2017-03-02",
+               "claimsID" : "INSURANCE SERVICES OFFICE, INC 056940103"
+            },
+            {
+               "assignment" : {
+                  "assignmentType" : "Person",
+                  "personIdentifier" : "I",
+                  "firstName" : "ULA",
+                  "lastName" : "MANISCALCO",
+                  "claimsAssociationNumberByRole" : "2",
+                  "roleInClaim" : "SI"
+               },
+               "atFaultIndicatorCode" : "Y",
+               "lossType" : "COLL",
+               "lossAmount" : "1497",
+               "claimStatus" : "C",
+               "incurDate" : "2017-03-02",
+               "claimsID" : "INSURANCE SERVICES OFFICE, INC 056940103"
+            },
+            {
+               "assignment" : {
+                  "assignmentType" : "Person",
+                  "personIdentifier" : "I",
+                  "firstName" : "ULA",
+                  "lastName" : "MANISCALCO",
+                  "claimsAssociationNumberByRole" : "2",
+                  "roleInClaim" : "SI"
+               },
+               "atFaultIndicatorCode" : "Y",
+               "lossType" : "MEDPY",
+               "lossAmount" : "1497",
+               "claimStatus" : "C",
+               "incurDate" : "2017-03-02",
+               "claimsID" : "INSURANCE SERVICES OFFICE, INC 056940103"
+            },
+            {
+               "assignment" : {
+                  "assignmentType" : "Person",
+                  "personIdentifier" : "I",
+                  "firstName" : "SHERA",
+                  "lastName" : "PASCUA",
+                  "claimsAssociationNumberByRole" : "1",
+                  "roleInClaim" : "IN"
+               },
+               "atFaultIndicatorCode" : "Y",
+               "lossType" : "UMPD",
+               "lossAmount" : "1497",
+               "claimStatus" : "SAL",
+               "incurDate" : "2016-05-14",
+               "claimsID" : "INSURANCE SERVICES OFFICE, INC 056940105"
+            },
+            {
+               "assignment" : {
+                  "assignmentType" : "Person",
+                  "personIdentifier" : "I",
+                  "firstName" : "ULA",
+                  "lastName" : "MANISCALCO",
+                  "claimsAssociationNumberByRole" : "2",
+                  "roleInClaim" : "SI"
+               },
+               "atFaultIndicatorCode" : "Y",
+               "lossType" : "UMPD",
+               "lossAmount" : "1497",
+               "claimStatus" : "SAL",
+               "incurDate" : "2016-05-14",
+               "claimsID" : "INSURANCE SERVICES OFFICE, INC 056940105"
+            }
+         ]
+      }
+   }
+}
